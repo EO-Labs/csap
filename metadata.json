@@ -1,23 +1,11 @@
 {
- "attributes": [
-   {"trait_type": "itent", "value":"receipt for angel funds"},
-   {"trait_type": "website", "value":"https://EO-Labs.github.io/csap/" },
-   {"trait_type": "mutabke key", "value":"QmPvMtMFoUsx9JNGLaVBFESQj8GwGm7ewzuyfBY9KeCsBp" }
- ],
-"chainId": "103",
- "extensions": {
- "coingeckoId": "USDT",
- "description": "",
- "telegram": "https://t.me/cryptolake2",
- "website": "https://EO-Labs.github.io/csap/"
- },
- "image": "https://EO-Labs.github.io/csap/csap000.svg",
- "external_url": "https://EO-Labs.github.io/csap/",
-
-"mintAuthority": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
-"updateAuthority": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
 "name": "Crypto Seed Accountancy Platform",
 "symbol": "CSAP",
-"meta_url": "https://cdn.jsdelivr.net/gh/EO-Labs/csap@master/metadata.json",
-"tokenStandard" : 1
+"uri": "https://EO-Labs.github.io/csap/metadata.json",
+"sellerFeeBasePoints": 0,
+"creators": null,
+"collection": null,
+"uses" null
 }
+
+

@@ -1,0 +1,14 @@
+{
+      "chainId": 102,
+      "address": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
+      "symbol": "CSAP",
+      "name": "Crypto Seed Accountancy Platform",
+      "decimals": 5,
+      "logoURI": "https://ipfs.safewatch.care/ipns/QmPvMtMFoUsx9JNGLaVBFESQj8GwGm7ewzuyfBY9KeCsBp/assets/csap.svg",
+      "tags": [
+        "tokenized-green-bitcoin"
+      ],
+      "extensions": {
+        "website": "https://duckduckgo.com/?q=%22crypto+seed+accountancy+platform%22+solana+!g+%25CSAP"
+      }
+}
