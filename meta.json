@@ -1,8 +1,8 @@
 {
   "name": "Crypto Seed Accountancy Platform",
   "symbol": "CSAP",
-  "description": "An accountancy token for pre-seeded startups"
-  "image": "https://EO-Labs.github.io/csap/csap000.svg"
-  "animation_url": "https://EO-Labs.github.io/csap/csap000.mp4"
+  "description": "An accountancy token for pre-seeded startups",
+  "image": "https://EO-Labs.github.io/csap/csap000.svg",
+  "animation_url": "https://EO-Labs.github.io/csap/csap000.mp4",
   "external_url": "https://EO-Labs.github.io/csap/"
 }
