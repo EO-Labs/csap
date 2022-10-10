@@ -1,0 +1,23 @@
+{
+ "attributes": [
+   {"trait_type": "itent", "value" "receipt for angel funds"},
+   {"trait_type": "website", "value" "https://PurpleZone.github.io/NFTs/csap/" },
+   {"trait_type": "mutabke key", "value" "QmPvMtMFoUsx9JNGLaVBFESQj8GwGm7ewzuyfBY9KeCsBp" }
+ ],
+"chainId": "103",
+ "extensions": {
+ "coingeckoId": "USDT",
+ "description": "",
+ "telegram": "https://t.me/cryptolake2",
+ }
+ "image": "https://purplezone.github.io/NFTs/csap/csap000.svg",
+ "external_url": "https://purplezone.github.io/NFTs/csap/",
+
+"mintAuthority": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
+"updateAuthority": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
+"name": "Crypto Seed Accountancy Platform",
+"symbol": "CSAP",
+"meta_url": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/csap/metadata.json",
+"tokenStandard" : 1
+
+}
