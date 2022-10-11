@@ -2,7 +2,9 @@
 "mint": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
 "name": "Crypto Seed Accountancy Platform",
 "symbol": "CSAP",
-"uri": "https://EO-Labs.github.io/csap/metadata.json"
+"uri": "https://EO-Labs.github.io/csap/metadata.json",
+"balance": "0.00001",
+"decimals": 5
 }
 
 

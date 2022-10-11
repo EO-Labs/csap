@@ -1,14 +1,8 @@
-{
-  "key": "MetadataV1",
-  "updateAuthority": "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
-  "mint": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
+{ "metadata": {
   "name": "Crypto Seed Accountancy Platform",
   "symbol": "CSAP",
-  "uri": "https://EO-Labs.github.io/csap/metadata.json",
-  "sellerFeeBasisPoints": "0",
-  "primarySaleHappened": false,
-  "isMutable": true,
-  "creators": null,
-  "editionNonce": "255",
-  "tokenStandard": 1
+  "image": "https://EO-Labs.github.io/csap/csap0000.svg",
+  "seller_fee_basis_points": 0,
+  "properties": { "creators": [] }
+  }
 }
